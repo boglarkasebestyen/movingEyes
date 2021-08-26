@@ -15,6 +15,9 @@ Clone the respository and open the index.html file in your browser of choice.
 * Background image is too large and static. 
 * Could add more styling to the eyes more.
 
+## Live demo
+Take a look at the project [here](https://boglarkasebestyen.github.io/eyeEx/index.html).
+
 
 # License
 MIT License
