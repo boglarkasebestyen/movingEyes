@@ -1,4 +1,4 @@
-# Eyes Exercise
+# Eye Exercise
 This exercise demonstrates div movement in the window's x- and y-axis according to mouse positioning on the screen. Starter code was provided. This project was refactored. I replaced the original centered eyes with a background of a music album cover (Devin Townsend's "Ziltoid the Omniscient") and added the moving eyes to Ziltoid's face.
 
 
